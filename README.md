@@ -2,6 +2,8 @@
 
 Preregistered analysis plan, prompts and code for the study **"Same Answer, Different Text? Naturalness Confounds in Synthetic Kazakh–Russian Benchmarks for LLM Judges"**.
 
+**Paper:** *Naturalness of Synthetic Kazakh Texts and LLM Judge Scores* (Moldash, 2026; under review). The analysis plan keeps its original working title, the same as on Zenodo: https://doi.org/10.5281/zenodo.24023433
+
 The study asks a single question. Does an LLM judge's rubric score for a Kazakh answer change when a native speaker makes the text more natural without changing its content?
 
 **Author:** Dariya Moldash (Kazakh-British Technical University)
