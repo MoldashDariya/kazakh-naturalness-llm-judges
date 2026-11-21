@@ -26,7 +26,7 @@ The study data are not published here until the ethics decision. This covers the
 
 ## Data and permission
 
-The two pilot colleges gave written permission to use the students' interview answers for research in November 2026, after this study had already started. For that reason the study does not use the original answers. All scored texts are synthetic: they were generated with ChatGPT, modelled on answers from the SkillBridge KZ pilot (spring 2026), and the Kazakh versions were then post-edited by a native speaker and checked for meaning by an independent native reviewer.
+The two pilot colleges gave written permission to use the students' interview answers for research in November 2026, after this study had already started. For that reason the study does not use the original answers. All scored texts are synthetic: they were generated with ChatGPT, modelled on answers from the SkillBridge KZ pilot (spring 2026), and the Kazakh versions were then post-edited by a native speaker and checked for meaning by an independent native reviewer. The pilot also included students under 18, but only answers from adult students were used as examples for this study.
 
 ## Notes
 
