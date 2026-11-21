@@ -24,6 +24,10 @@ The study asks a single question. Does an LLM judge's rubric score for a Kazakh 
 
 The study data are not published here until the ethics decision. This covers the synthetic answers, the native-speaker post-edits, the meaning checks, the human ratings, and the questions and rubric. `HASHES.txt` fixes their exact versions.
 
+## Data and permission
+
+The two pilot colleges gave written permission to use the students' interview answers for research in November 2026, after this study had already started. For that reason the study does not use the original answers. All scored texts are synthetic: they were generated with ChatGPT, modelled on answers from the SkillBridge KZ pilot (spring 2026), and the Kazakh versions were then post-edited by a native speaker and checked for meaning by an independent native reviewer.
+
 ## Notes
 
 - The code was frozen together with the plan, so some internal references in it point to the working package rather than to this repository. In particular:
