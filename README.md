@@ -2,7 +2,7 @@
 
 Preregistered analysis plan, prompts and code for the study **"Same Answer, Different Text? Naturalness Confounds in Synthetic Kazakh–Russian Benchmarks for LLM Judges"**.
 
-**Paper:** *Naturalness of Synthetic Kazakh Texts and LLM Judge Scores* (Moldash, 2026; under review). The analysis plan keeps its original working title, the same as on Zenodo: https://doi.org/10.5281/zenodo.24023433
+**Paper:** *Naturalness of Synthetic Kazakh Texts and LLM Judge Scores* (Moldash, 2026; accepted for the proceedings of the 14th International Scientific and Technical Conference "Modern Information Technologies"). The analysis plan keeps its original working title, the same as on Zenodo: https://doi.org/10.5281/zenodo.24023433
 
 The study asks a single question. Does an LLM judge's rubric score for a Kazakh answer change when a native speaker makes the text more natural without changing its content?
 
@@ -38,4 +38,4 @@ Text and code: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 ## Registration
 
 - DOI (v1.0, frozen 2026-11-07): [10.5281/zenodo.24023433](https://doi.org/10.5281/zenodo.24023433)
-- `PREREGISTRATION.md` is kept exactly as registered in v1.0.
+- `PREREGISTRATION.md` is the registered v1.0 text, except that on 2026-11-22 one sentence about college certificates was removed from §8. The Zenodo record keeps the original wording.
